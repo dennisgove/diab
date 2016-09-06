@@ -1,4 +1,4 @@
-package com.dennisgove.diab;
+package com.dennisgove.endo;
 
 import org.junit.Test;
 

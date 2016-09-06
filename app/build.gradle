@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.1"
 
     defaultConfig {
-        applicationId "com.dennisgove.diab"
+        applicationId "com.dennisgove.endo"
         minSdkVersion 23
         targetSdkVersion 24
         versionCode 1

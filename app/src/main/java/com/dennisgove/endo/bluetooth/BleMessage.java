@@ -1,4 +1,4 @@
-package com.dennisgove.diab.bluetooth;
+package com.dennisgove.endo.bluetooth;
 
 /**
  * Created by dennis on 8/29/16.

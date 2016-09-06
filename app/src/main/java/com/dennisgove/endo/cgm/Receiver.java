@@ -1,4 +1,4 @@
-package com.dennisgove.diab.cgm;
+package com.dennisgove.endo.cgm;
 
 /**
  * Created by dennis on 8/29/16.
